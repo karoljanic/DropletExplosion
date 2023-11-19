@@ -8,13 +8,13 @@ The algorithm analyzes the video using the OpenCV library. The methods used are 
 
 The results of the analysis of the few recordings are shown below:
 
-![Video](https://gitlab.com/karoljanic97/droplet-explosion/-/blob/main/result/video1.mp4)
+![Video]([https://gitlab.com/karoljanic97/droplet-explosion/-/blob/main/result/video1.mp4](https://github.com/karoljanic/DropletExplosion/blob/main/result/video1.mp4))
 
-![Picture](https://gitlab.com/karoljanic97/droplet-explosion/-/blob/main/result/picture2.png)
+![Picture]([https://gitlab.com/karoljanic97/droplet-explosion/-/blob/main/result/picture2.png](https://github.com/karoljanic/DropletExplosion/blob/main/result/picture2.png))
 
-![Picture](https://gitlab.com/karoljanic97/droplet-explosion/-/blob/main/result/picture1.png)
+![Picture]([https://github.com/karoljanic/DropletExplosion/blob/main/result/picture1.png](https://github.com/karoljanic/DropletExplosion/blob/main/result/picture1.png))
 
-![Chart](https://gitlab.com/karoljanic97/droplet-explosion/-/blob/main/result/chart1.png)
+![Chart]([https://gitlab.com/karoljanic97/droplet-explosion/-/blob/main/result/chart1.png](https://github.com/karoljanic/DropletExplosion/blob/main/result/chart1.png))
 
-![Chart](https://gitlab.com/karoljanic97/droplet-explosion/-/blob/main/result/chart2.png)
+![Chart]([https://github.com/karoljanic/DropletExplosion/blob/main/result/chart2.png](https://github.com/karoljanic/DropletExplosion/blob/main/result/chart2.png)
 
